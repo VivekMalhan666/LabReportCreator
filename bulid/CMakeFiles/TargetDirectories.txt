@@ -1,0 +1,4 @@
+/home/shiv/gd/Lab_Report_Creator/bulid/CMakeFiles/rebuild_cache.dir
+/home/shiv/gd/Lab_Report_Creator/bulid/CMakeFiles/edit_cache.dir
+/home/shiv/gd/Lab_Report_Creator/bulid/CMakeFiles/finaloutput.pdf_product.dir
+/home/shiv/gd/Lab_Report_Creator/bulid/CMakeFiles/finaloutput.dir
